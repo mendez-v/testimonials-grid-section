@@ -35,6 +35,8 @@ Users should be able to:
 
 [Live site](https://mendez-v.github.io/testimonials-grid-section/) 👀
 
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-grid-rRdORf6KqY) 👀
+
 [Challenge repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## *Built with*
